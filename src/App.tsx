@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Router, Routes } from "react-router-dom";
 
 // Components
 import Header from "./components/Header";
-import Sidebar from './components/Sidebar'
+import Sidebar from "./components/Sidebar";
 
 // Pages
 import Home from "./pages/Home";

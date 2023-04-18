@@ -1,7 +1,7 @@
 # Ecommerce site
 
-![image](/assets/4.png)
-![image](/assets/5.png)
+![image](./src/assets/4.png)
+![image](./src/assets/5.png)
 
 ## Description
 
